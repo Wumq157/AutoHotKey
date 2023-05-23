@@ -2,20 +2,20 @@
 #SingleInstance Force
 
 ; Função para falar palavras obscenas
-Fala(palavra) {
+fala(palavra) {
     SpVoice := ComObjCreate("SAPI.SpVoice")
     SpVoice.Speak(palavra)
     return
 }
 
 ; Função para realizar uma soma
-Soma(a, b) {
+soma(a, b) {
     resultado := a + b
     return resultado
 }
 
 ; Função para procurar uma imagem e clicar no meio ou no pixel mais próximo
-ProcurarImg(caminhoImagem) {
+procurarImg(caminhoImagem) {
     ImageSearch, x, y, 0, 0, 1920, 1080, %caminhoImagem%
     if (Errorlevel = 0) {
         ; Calcular o ponto médio
