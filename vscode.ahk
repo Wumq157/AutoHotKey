@@ -1,12 +1,29 @@
-#NoEnv  ; Recomendado para desempenho e compatibilidade com futuras versões do AutoHotkey.
-#Warn  ; Ativa avisos para ajudar a detectar erros comuns.
-SendMode Input  ; Recomendado para novos scripts devido à sua velocidade e confiabilidade superior.
-SetWorkingDir %A_ScriptDir%  ; Garante um diretório de partida consistente.
+#NoEnv
+#SingleInstance Force
 
-Insert::
-ImageSearch, x1, y1, 0, 0, 1920, 1080, C:\Users\otavi\OneDrive\Área de Trabalho\image.png
-If (Errorlevel =0)
-    {
-        Click, %x1%, %y1%
+; Função para falar palavras obscenas
+Fala(palavra) {
+    SpVoice := ComObjCreate("SAPI.SpVoice")
+    SpVoice.Speak(palavra)
+    return
+}
+
+; Função para realizar uma soma
+Soma(a, b) {
+    resultado := a + b
+    return resultado
+}
+
+; Função para procurar uma imagem e clicar no meio ou no pixel mais próximo
+ProcurarImg(caminhoImagem) {
+    ImageSearch, x, y, 0, 0, 1920, 1080, %caminhoImagem%
+    if (Errorlevel = 0) {
+        ; Calcular o ponto médio
+        meioX := x + 1
+        meioY := y + 1
+        
+        ; Clicar no meio ou no pixel mais próximo
+        Click, %meioX%, %meioY%
         Sleep, 300
     }
+    return
