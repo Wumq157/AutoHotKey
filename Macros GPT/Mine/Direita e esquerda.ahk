@@ -1,0 +1,4 @@
+﻿Insert::
+    Click down
+ExitApp
+

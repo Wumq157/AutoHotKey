@@ -1,0 +1,82 @@
+OCR := DllCall("D:\Dll OCR\tesseract.dll\TesseractOCR", "str", img, "int", 0)
+import pytesseract
+import keyboard
+import cv2
+
+# Specify path to save the text file
+path = r"C:\Users\otavi\OneDrive\Área de Trabalho\Macros 2k22\Macros GPT\Leitura\arquivos"
+
+# Function to capture and OCR screen
+def capture_ocr():
+    # Take screenshot
+    img = pyautogui.screenshot()
+    # Convert image to numpy array
+    img = np.array(img)
+    # Convert image to grayscale
+    gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
+    # Apply OCR
+    text = pytesseract.image_to_string(gray)
+    # Save text to file
+    with open(path + "/screen_text.txt", "w") as f:
+        f.write(text)
+    print("Texto capturado com sucesso!")
+
+# Listen for the "Insert" key press
+keyboard.add_hotkey("insert", capture_ocr)
+
+# Keep the program running
+keyboard.wait()
+import pytesseract
+import keyboard
+import cv2
+
+# Specify path to save the text file
+path = r"C:\Users\otavi\OneDrive\Área de Trabalho\Macros 2k22\Macros GPT\Leitura\arquivos"
+
+# Function to capture and OCR screen
+def capture_ocr():
+    # Take screenshot
+    img = pyautogui.screenshot()
+    # Convert image to numpy array
+    img = np.array(img)
+    # Convert image to grayscale
+    gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
+    # Apply OCR
+    text = pytesseract.image_to_string(gray)
+    # Save text to file
+    with open(path + "/screen_text.txt", "w") as f:
+        f.write(text)
+    print("Texto capturado com sucesso!")
+
+# Listen for the "Insert" key press
+keyboard.add_hotkey("insert", capture_ocr)
+
+# Keep the program running
+keyboard.wait()
+import pytesseract
+import keyboard
+import cv2
+
+# Specify path to save the text file
+path = r"C:\Users\otavi\OneDrive\Área de Trabalho\Macros 2k22\Macros GPT\Leitura\arquivos"
+
+# Function to capture and OCR screen
+def capture_ocr():
+    # Take screenshot
+    img = pyautogui.screenshot()
+    # Convert image to numpy array
+    img = np.array(img)
+    # Convert image to grayscale
+    gray = cv2.cvtColor(img, cv2.COLOR_BGR2GRAY)
+    # Apply OCR
+    text = pytesseract.image_to_string(gray)
+    # Save text to file
+    with open(path + "/screen_text.txt", "w") as f:
+        f.write(text)
+    print("Texto capturado com sucesso!")
+
+# Listen for the "Insert" key press
+keyboard.add_hotkey("insert", capture_ocr)
+
+# Keep the program running
+keyboard.wait()
