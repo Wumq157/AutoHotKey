@@ -1,0 +1,3 @@
+Usa
+CTRL+K pra inicia
+CTRL+J Pra para [OBS] ele fecha
