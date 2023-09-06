@@ -1,0 +1,1226 @@
+﻿Insert::
+
+Sleep 10
+Click Left
+Sleep 1865
+Send UM {!}
+Sleep 10
+Send {Enter}
+Sleep 10
+Click Left
+Sleep 1865
+Send DOIS {!}
+Sleep 10
+Send {Enter}
+Sleep 10
+Click Left
+Sleep 1865
+Send TRÊS {!}
+Sleep 10
+Send {Enter}
+Sleep 10
+Click Left
+Sleep 1865
+Send QUATRO {!}
+Sleep 10
+Send {Enter}
+Sleep 10
+Click Left
+Sleep 1865
+Send CINCO {!}
+Sleep 10
+Send {Enter}
+Sleep 10
+Click Left
+Sleep 1865
+Send SEIS {!}
+Sleep 10
+Send {Enter}
+Sleep 10
+Click Left
+Sleep 1865
+Send SETE {!}
+Sleep 10
+Send {Enter}
+Sleep 10
+Click Left
+Sleep 1865
+Send OITO {!}
+Sleep 10
+Send {Enter}
+Sleep 10
+Click Left
+Sleep 1865
+Send NOVE {!}
+Sleep 10
+Send {Enter}
+Sleep 10
+Click Left
+Sleep 1865
+Send DEZ {!}
+Sleep 10
+Send {Enter}
+
+Sleep 10
+Click Left
+Sleep 1865
+Send ONZE {!}
+Sleep 10
+Send {Enter}
+Sleep 10
+Click Left
+Sleep 1865
+Send DOZE {!}
+Sleep 10
+Send {Enter}
+Sleep 10
+Click Left
+Sleep 1865
+Send TREZE {!}
+Sleep 10
+Send {Enter}
+Sleep 10
+Click Left
+Sleep 1865
+Send CATORZE {!}
+Sleep 10
+Send {Enter}
+Sleep 10
+Click Left
+Sleep 1865
+Send QUINZE {!}
+Sleep 10
+Send {Enter}
+Sleep 10
+Click Left
+Sleep 1865
+Send DEZESEIS {!}
+Sleep 10
+Send {Enter}
+Sleep 10
+Click Left
+Sleep 1865
+Send DEZESETE {!}
+Sleep 10
+Send {Enter}
+Sleep 10
+Click Left
+Sleep 1865
+Send DEZOITO {!}
+Sleep 10
+Send {Enter}
+Sleep 10
+Click Left
+Sleep 1865
+Send DEZENOVE {!}
+Sleep 10
+Send {Enter}
+Sleep 10
+Click Left
+Sleep 1865
+Send VINTE {!}
+Sleep 10
+Send {Enter}
+
+Sleep 10
+Click Left
+Sleep 1865
+Send VINTE E UM {!}
+Sleep 10
+Send {Enter}
+Sleep 10
+Click Left
+Sleep 1865
+Send VINTE E DEOIS {!}
+Sleep 10
+Send {Enter}
+Sleep 10
+Click Left
+Sleep 1865
+Send VINTE E TRÊS {!}
+Sleep 10
+Send {Enter}
+Sleep 10
+Click Left
+Sleep 1865
+Send VINTE E QUATRO {!}
+Sleep 10
+Send {Enter}
+Sleep 10
+Click Left
+Sleep 1865
+Send VINTE E CINCO {!}
+Sleep 10
+Send {Enter}
+Sleep 10
+Click Left
+Sleep 1865
+Send VINTE E SEIS {!}
+Sleep 10
+Send {Enter}
+Sleep 10
+Click Left
+Sleep 1865
+Send VINTE E SETE {!}
+Sleep 10
+Send {Enter}
+Sleep 10
+Click Left
+Sleep 1865
+Send VINTE E OITO {!}
+Sleep 10
+Send {Enter}
+Sleep 10
+Click Left
+Sleep 1865
+Send VINTE E NOVE {!}
+Sleep 10
+Send {Enter}
+Sleep 10
+Click Left
+Sleep 1865
+Send TRINTA {!}
+Sleep 10
+Send {Enter}
+
+Sleep 10
+Click Left
+Sleep 1865
+Send TRINTA E UM {!}
+Sleep 10
+Send {Enter}
+Sleep 10
+Click Left
+Sleep 1865
+Send TRINTA E DOIS {!}
+Sleep 10
+Send {Enter}
+Sleep 10
+Click Left
+Sleep 1865
+Send TRINTA E TRÊS {!}
+Sleep 10
+Send {Enter}
+Sleep 10
+Click Left
+Sleep 1865
+Send TRINTA E QUATRO {!}
+Sleep 10
+Send {Enter}
+Sleep 10
+Click Left
+Sleep 1865
+Send TRINTA E CINCO {!}
+Sleep 10
+Send {Enter}
+Sleep 10
+Click Left
+Sleep 1865
+Send TRINTA E SEIS {!}
+Sleep 10
+Send {Enter}
+Sleep 10
+Click Left
+Sleep 1865
+Send TRINTA E SETE {!}
+Sleep 10
+Send {Enter}
+Sleep 10
+Click Left
+Sleep 1865
+Send TRINTA E OITO {!}
+Sleep 10
+Send {Enter}
+Sleep 10
+Click Left
+Sleep 1865
+Send TRINTA E NOVE {!}
+Sleep 10
+Send {Enter}
+Sleep 10
+Click Left
+Sleep 1865
+Send QUARENTA {!}
+Sleep 10
+Send {Enter}
+
+Sleep 10
+Click Left
+Sleep 1865
+Send QUARENTA E UM {!}
+Sleep 10
+Send {Enter}
+Sleep 10
+Click Left
+Sleep 1865
+Send QUARENTA E DOIS {!}
+Sleep 10
+Send {Enter}
+Sleep 10
+Click Left
+Sleep 1865
+Send QUARENTA E TRÊS {!}
+Sleep 10
+Send {Enter}
+Sleep 10
+Click Left
+Sleep 1865
+Send QUARENTA E QUATRO {!}
+Sleep 10
+Send {Enter}
+Sleep 10
+Click Left
+Sleep 1865
+Send QUARENTA E CINCO {!}
+Sleep 10
+Send {Enter}
+Sleep 10
+Click Left
+Sleep 1865
+Send QUARENTA E SEIS {!}
+Sleep 10
+Send {Enter}
+Sleep 10
+Click Left
+Sleep 1865
+Send QUARENTA E SETE {!}
+Sleep 10
+Send {Enter}
+Sleep 10
+Click Left
+Sleep 1865
+Send QUARENTA E OITO {!}
+Sleep 10
+Send {Enter}
+Sleep 10
+Click Left
+Sleep 1865
+Send QUARENTA E NOVE {!}
+Sleep 10
+Send {Enter}
+Sleep 10
+Click Left
+Sleep 1865
+Send CINQUENTA {!}
+Sleep 10
+Send {Enter}
+
+Sleep 10
+Click Left
+Sleep 1865
+Send CINQUENTA E UM {!}
+Sleep 10
+Send {Enter}
+Sleep 10
+Click Left
+Sleep 1865
+Send CINQUENTA E DOIS {!}
+Sleep 10
+Send {Enter}
+Sleep 10
+Click Left
+Sleep 1865
+Send CINQUENTA E TRÊS {!}
+Sleep 10
+Send {Enter}
+Sleep 10
+Click Left
+Sleep 1865
+Send CINQUENTA E QUATRO {!}
+Sleep 10
+Send {Enter}
+Sleep 10
+Click Left
+Sleep 1865
+Send CINQUENTA E CINCO {!}
+Sleep 10
+Send {Enter}
+Sleep 10
+Click Left
+Sleep 1865
+Send CINQUENTA E SEIS {!}
+Sleep 10
+Send {Enter}
+Sleep 10
+Click Left
+Sleep 1865
+Send CINQUENTA E SETE {!}
+Sleep 10
+Send {Enter}
+Sleep 10
+Click Left
+Sleep 1865
+Send CINQUENTA E OITO {!}
+Sleep 10
+Send {Enter}
+Sleep 10
+Click Left
+Sleep 1865
+Send CINQUENTA E NOVE {!}
+Sleep 10
+Send {Enter}
+Sleep 10
+Click Left
+Sleep 1865
+Send SESSENTA {!}
+Sleep 10
+Send {Enter}
+
+Sleep 10
+Click Left
+Sleep 1865
+Send SESSENTA E UM {!}
+Sleep 10
+Send {Enter}
+Sleep 10
+Click Left
+Sleep 1865
+Send SESSENTA E DOIS {!}
+Sleep 10
+Send {Enter}
+Sleep 10
+Click Left
+Sleep 1865
+Send SESSENTA E TRÊS {!}
+Sleep 10
+Send {Enter}
+Sleep 10
+Click Left
+Sleep 1865
+Send SESSENTA E QUATRO {!}
+Sleep 10
+Send {Enter}
+Sleep 10
+Click Left
+Sleep 1865
+Send SESSENTA E CINCO {!}
+Sleep 10
+Send {Enter}
+Sleep 10
+Click Left
+Sleep 1865
+Send SESSENTA E SEIS {!}
+Sleep 10
+Send {Enter}
+Sleep 10
+Click Left
+Sleep 1865
+Send SESSENTA E SETE {!}
+Sleep 10
+Send {Enter}
+Sleep 10
+Click Left
+Sleep 1865
+Send SESSENTA E OITO {!}
+Sleep 10
+Send {Enter}
+Sleep 10
+Click Left
+Sleep 1865
+Send SESSENTA E NOVE {!}
+Sleep 10
+Send {Enter}
+Sleep 10
+Click Left
+Sleep 1865
+Send SETENTA {!}
+Sleep 10
+Send {Enter}
+
+Sleep 10
+Click Left
+Sleep 1865
+Send SETENTA E UM {!}
+Sleep 10
+Send {Enter}
+Sleep 10
+Click Left
+Sleep 1865
+Send SETENTA E DOIS {!}
+Sleep 10
+Send {Enter}
+Sleep 10
+Click Left
+Sleep 1865
+Send SETENTA E TRÊS {!}
+Sleep 10
+Send {Enter}
+Sleep 10
+Click Left
+Sleep 1865
+Send SETENTA E QUATRO {!}
+Sleep 10
+Send {Enter}
+Sleep 10
+Click Left
+Sleep 1865
+Send SETENTA E CINCO {!}
+Sleep 10
+Send {Enter}
+Sleep 10
+Click Left
+Sleep 1865
+Send SETENTA E SEIS {!}
+Sleep 10
+Send {Enter}
+Sleep 10
+Click Left
+Sleep 1865
+Send SETENTA E SETE {!}
+Sleep 10
+Send {Enter}
+Sleep 10
+Click Left
+Sleep 1865
+Send SETENTA E OITO {!}
+Sleep 10
+Send {Enter}
+Sleep 10
+Click Left
+Sleep 1865
+Send SETENTA E NOVE {!}
+Sleep 10
+Send {Enter}
+Sleep 10
+Click Left
+Sleep 1865
+Send OITENTA  {!}
+Sleep 10
+Send {Enter}
+
+Sleep 10
+Click Left
+Sleep 1865
+Send OITENTA E UM {!}
+Sleep 10
+Send {Enter}
+Sleep 10
+Click Left
+Sleep 1865
+Send OITENTA E DOIS {!}
+Sleep 10
+Send {Enter}
+Sleep 10
+Click Left
+Sleep 1865
+Send OITENTA E TRÊS {!}
+Sleep 10
+Send {Enter}
+Sleep 10
+Click Left
+Sleep 1865
+Send OITENTA E QUATRO {!}
+Sleep 10
+Send {Enter}
+Sleep 10
+Click Left
+Sleep 1865
+Send OITENTA E CINCO {!}
+Sleep 10
+Send {Enter}
+Sleep 10
+Click Left
+Sleep 1865
+Send OITENTA E SEIS {!}
+Sleep 10
+Send {Enter}
+Sleep 10
+Click Left
+Sleep 1865
+Send OITENTA E SETE {!}
+Sleep 10
+Send {Enter}
+Sleep 10
+Click Left
+Sleep 1865
+Send OITENTA E OITO {!}
+Sleep 10
+Send {Enter}
+Sleep 10
+Click Left
+Sleep 1865
+Send OITENTA E NOVE {!}
+Sleep 10
+Send {Enter}
+Sleep 10
+Click Left
+Sleep 1865
+Send NOVENTA {!}
+Sleep 10
+Send {Enter}
+
+Sleep 10
+Click Left
+Sleep 1865
+Send NOVENTA E UM {!}
+Sleep 10
+Send {Enter}
+Sleep 10
+Click Left
+Sleep 1865
+Send NOVENTA E DOIS {!}
+Sleep 10
+Send {Enter}
+Sleep 10
+Click Left
+Sleep 1865
+Send NOVENTA E TRÊS {!}
+Sleep 10
+Send {Enter}
+Sleep 10
+Click Left
+Sleep 1865
+Send NOVENTA E QUATRO {!}
+Sleep 10
+Send {Enter}
+Sleep 10
+Click Left
+Sleep 1865
+Send NOVENTA E CINCO {!}
+Sleep 10
+Send {Enter}
+Sleep 10
+Click Left
+Sleep 1865
+Send NOVENTA E SEIS {!}
+Sleep 10
+Send {Enter}
+Sleep 10
+Click Left
+Sleep 1865
+Send NOVENTA E SETE {!}
+Sleep 10
+Send {Enter}
+Sleep 10
+Click Left
+Sleep 1865
+Send NOVENTA E OITO {!}
+Sleep 10
+Send {Enter}
+Sleep 10
+Click Left
+Sleep 1865
+Send NOVENTA E NOVE {!}
+Sleep 10
+Send {Enter}
+Sleep 10
+Click Left
+Sleep 1865
+Send CEM {!}
+Sleep 10
+Send {Enter}
+
+ExitApp
+
+Sleep 10
+Click Left
+Sleep 1865
+Send UM {!}
+Sleep 10
+Send {Enter}
+Sleep 10
+Click Left
+Sleep 1865
+Send UM {!}
+Sleep 10
+Send {Enter}
+Sleep 10
+Click Left
+Sleep 1865
+Send UM {!}
+Sleep 10
+Send {Enter}
+Sleep 10
+Click Left
+Sleep 1865
+Send UM {!}
+Sleep 10
+Send {Enter}
+Sleep 10
+Click Left
+Sleep 1865
+Send UM {!}
+Sleep 10
+Send {Enter}
+Sleep 10
+Click Left
+Sleep 1865
+Send UM {!}
+Sleep 10
+Send {Enter}
+Sleep 10
+Click Left
+Sleep 1865
+Send UM {!}
+Sleep 10
+Send {Enter}
+Sleep 10
+Click Left
+Sleep 1865
+Send UM {!}
+Sleep 10
+Send {Enter}
+Sleep 10
+Click Left
+Sleep 1865
+Send UM {!}
+Sleep 10
+Send {Enter}
+Sleep 10
+Click Left
+Sleep 1865
+Send UM {!}
+Sleep 10
+Send {Enter}
+
+Sleep 10
+Click Left
+Sleep 1865
+Send UM {!}
+Sleep 10
+Send {Enter}
+Sleep 10
+Click Left
+Sleep 1865
+Send UM {!}
+Sleep 10
+Send {Enter}
+Sleep 10
+Click Left
+Sleep 1865
+Send UM {!}
+Sleep 10
+Send {Enter}
+Sleep 10
+Click Left
+Sleep 1865
+Send UM {!}
+Sleep 10
+Send {Enter}
+Sleep 10
+Click Left
+Sleep 1865
+Send UM {!}
+Sleep 10
+Send {Enter}
+Sleep 10
+Click Left
+Sleep 1865
+Send UM {!}
+Sleep 10
+Send {Enter}
+Sleep 10
+Click Left
+Sleep 1865
+Send UM {!}
+Sleep 10
+Send {Enter}
+Sleep 10
+Click Left
+Sleep 1865
+Send UM {!}
+Sleep 10
+Send {Enter}
+Sleep 10
+Click Left
+Sleep 1865
+Send UM {!}
+Sleep 10
+Send {Enter}
+Sleep 10
+Click Left
+Sleep 1865
+Send UM {!}
+Sleep 10
+Send {Enter}
+
+Sleep 10
+Click Left
+Sleep 1865
+Send UM {!}
+Sleep 10
+Send {Enter}
+Sleep 10
+Click Left
+Sleep 1865
+Send UM {!}
+Sleep 10
+Send {Enter}
+Sleep 10
+Click Left
+Sleep 1865
+Send UM {!}
+Sleep 10
+Send {Enter}
+Sleep 10
+Click Left
+Sleep 1865
+Send UM {!}
+Sleep 10
+Send {Enter}
+Sleep 10
+Click Left
+Sleep 1865
+Send UM {!}
+Sleep 10
+Send {Enter}
+Sleep 10
+Click Left
+Sleep 1865
+Send UM {!}
+Sleep 10
+Send {Enter}
+Sleep 10
+Click Left
+Sleep 1865
+Send UM {!}
+Sleep 10
+Send {Enter}
+Sleep 10
+Click Left
+Sleep 1865
+Send UM {!}
+Sleep 10
+Send {Enter}
+Sleep 10
+Click Left
+Sleep 1865
+Send UM {!}
+Sleep 10
+Send {Enter}
+Sleep 10
+Click Left
+Sleep 1865
+Send UM {!}
+Sleep 10
+Send {Enter}
+
+Sleep 10
+Click Left
+Sleep 1865
+Send UM {!}
+Sleep 10
+Send {Enter}
+Sleep 10
+Click Left
+Sleep 1865
+Send UM {!}
+Sleep 10
+Send {Enter}
+Sleep 10
+Click Left
+Sleep 1865
+Send UM {!}
+Sleep 10
+Send {Enter}
+Sleep 10
+Click Left
+Sleep 1865
+Send UM {!}
+Sleep 10
+Send {Enter}
+Sleep 10
+Click Left
+Sleep 1865
+Send UM {!}
+Sleep 10
+Send {Enter}
+Sleep 10
+Click Left
+Sleep 1865
+Send UM {!}
+Sleep 10
+Send {Enter}
+Sleep 10
+Click Left
+Sleep 1865
+Send UM {!}
+Sleep 10
+Send {Enter}
+Sleep 10
+Click Left
+Sleep 1865
+Send UM {!}
+Sleep 10
+Send {Enter}
+Sleep 10
+Click Left
+Sleep 1865
+Send UM {!}
+Sleep 10
+Send {Enter}
+Sleep 10
+Click Left
+Sleep 1865
+Send UM {!}
+Sleep 10
+Send {Enter}
+
+Sleep 10
+Click Left
+Sleep 1865
+Send UM {!}
+Sleep 10
+Send {Enter}
+Sleep 10
+Click Left
+Sleep 1865
+Send UM {!}
+Sleep 10
+Send {Enter}
+Sleep 10
+Click Left
+Sleep 1865
+Send UM {!}
+Sleep 10
+Send {Enter}
+Sleep 10
+Click Left
+Sleep 1865
+Send UM {!}
+Sleep 10
+Send {Enter}
+Sleep 10
+Click Left
+Sleep 1865
+Send UM {!}
+Sleep 10
+Send {Enter}
+Sleep 10
+Click Left
+Sleep 1865
+Send UM {!}
+Sleep 10
+Send {Enter}
+Sleep 10
+Click Left
+Sleep 1865
+Send UM {!}
+Sleep 10
+Send {Enter}
+Sleep 10
+Click Left
+Sleep 1865
+Send UM {!}
+Sleep 10
+Send {Enter}
+Sleep 10
+Click Left
+Sleep 1865
+Send UM {!}
+Sleep 10
+Send {Enter}
+Sleep 10
+Click Left
+Sleep 1865
+Send UM {!}
+Sleep 10
+Send {Enter}
+
+Sleep 10
+Click Left
+Sleep 1865
+Send UM {!}
+Sleep 10
+Send {Enter}
+Sleep 10
+Click Left
+Sleep 1865
+Send UM {!}
+Sleep 10
+Send {Enter}
+Sleep 10
+Click Left
+Sleep 1865
+Send UM {!}
+Sleep 10
+Send {Enter}
+Sleep 10
+Click Left
+Sleep 1865
+Send UM {!}
+Sleep 10
+Send {Enter}
+Sleep 10
+Click Left
+Sleep 1865
+Send UM {!}
+Sleep 10
+Send {Enter}
+Sleep 10
+Click Left
+Sleep 1865
+Send UM {!}
+Sleep 10
+Send {Enter}
+Sleep 10
+Click Left
+Sleep 1865
+Send UM {!}
+Sleep 10
+Send {Enter}
+Sleep 10
+Click Left
+Sleep 1865
+Send UM {!}
+Sleep 10
+Send {Enter}
+Sleep 10
+Click Left
+Sleep 1865
+Send UM {!}
+Sleep 10
+Send {Enter}
+Sleep 10
+Click Left
+Sleep 1865
+Send UM {!}
+Sleep 10
+Send {Enter}
+
+Sleep 10
+Click Left
+Sleep 1865
+Send UM {!}
+Sleep 10
+Send {Enter}
+Sleep 10
+Click Left
+Sleep 1865
+Send UM {!}
+Sleep 10
+Send {Enter}
+Sleep 10
+Click Left
+Sleep 1865
+Send UM {!}
+Sleep 10
+Send {Enter}
+Sleep 10
+Click Left
+Sleep 1865
+Send UM {!}
+Sleep 10
+Send {Enter}
+Sleep 10
+Click Left
+Sleep 1865
+Send UM {!}
+Sleep 10
+Send {Enter}
+Sleep 10
+Click Left
+Sleep 1865
+Send UM {!}
+Sleep 10
+Send {Enter}
+Sleep 10
+Click Left
+Sleep 1865
+Send UM {!}
+Sleep 10
+Send {Enter}
+Sleep 10
+Click Left
+Sleep 1865
+Send UM {!}
+Sleep 10
+Send {Enter}
+Sleep 10
+Click Left
+Sleep 1865
+Send UM {!}
+Sleep 10
+Send {Enter}
+Sleep 10
+Click Left
+Sleep 1865
+Send UM {!}
+Sleep 10
+Send {Enter}
+
+Sleep 10
+Click Left
+Sleep 1865
+Send UM {!}
+Sleep 10
+Send {Enter}
+Sleep 10
+Click Left
+Sleep 1865
+Send UM {!}
+Sleep 10
+Send {Enter}
+Sleep 10
+Click Left
+Sleep 1865
+Send UM {!}
+Sleep 10
+Send {Enter}
+Sleep 10
+Click Left
+Sleep 1865
+Send UM {!}
+Sleep 10
+Send {Enter}
+Sleep 10
+Click Left
+Sleep 1865
+Send UM {!}
+Sleep 10
+Send {Enter}
+Sleep 10
+Click Left
+Sleep 1865
+Send UM {!}
+Sleep 10
+Send {Enter}
+Sleep 10
+Click Left
+Sleep 1865
+Send UM {!}
+Sleep 10
+Send {Enter}
+Sleep 10
+Click Left
+Sleep 1865
+Send UM {!}
+Sleep 10
+Send {Enter}
+Sleep 10
+Click Left
+Sleep 1865
+Send UM {!}
+Sleep 10
+Send {Enter}
+Sleep 10
+Click Left
+Sleep 1865
+Send UM {!}
+Sleep 10
+Send {Enter}
+
+Sleep 10
+Click Left
+Sleep 1865
+Send UM {!}
+Sleep 10
+Send {Enter}
+Sleep 10
+Click Left
+Sleep 1865
+Send UM {!}
+Sleep 10
+Send {Enter}
+Sleep 10
+Click Left
+Sleep 1865
+Send UM {!}
+Sleep 10
+Send {Enter}
+Sleep 10
+Click Left
+Sleep 1865
+Send UM {!}
+Sleep 10
+Send {Enter}
+Sleep 10
+Click Left
+Sleep 1865
+Send UM {!}
+Sleep 10
+Send {Enter}
+Sleep 10
+Click Left
+Sleep 1865
+Send UM {!}
+Sleep 10
+Send {Enter}
+Sleep 10
+Click Left
+Sleep 1865
+Send UM {!}
+Sleep 10
+Send {Enter}
+Sleep 10
+Click Left
+Sleep 1865
+Send UM {!}
+Sleep 10
+Send {Enter}
+Sleep 10
+Click Left
+Sleep 1865
+Send UM {!}
+Sleep 10
+Send {Enter}
+Sleep 10
+Click Left
+Sleep 1865
+Send UM {!}
+Sleep 10
+Send {Enter}
+
+Sleep 10
+Click Left
+Sleep 1865
+Send UM {!}
+Sleep 10
+Send {Enter}
+Sleep 10
+Click Left
+Sleep 1865
+Send UM {!}
+Sleep 10
+Send {Enter}
+Sleep 10
+Click Left
+Sleep 1865
+Send UM {!}
+Sleep 10
+Send {Enter}
+Sleep 10
+Click Left
+Sleep 1865
+Send UM {!}
+Sleep 10
+Send {Enter}
+Sleep 10
+Click Left
+Sleep 1865
+Send UM {!}
+Sleep 10
+Send {Enter}
+Sleep 10
+Click Left
+Sleep 1865
+Send UM {!}
+Sleep 10
+Send {Enter}
+Sleep 10
+Click Left
+Sleep 1865
+Send UM {!}
+Sleep 10
+Send {Enter}
+Sleep 10
+Click Left
+Sleep 1865
+Send UM {!}
+Sleep 10
+Send {Enter}
+Sleep 10
+Click Left
+Sleep 1865
+Send UM {!}
+Sleep 10
+Send {Enter}
+Sleep 10
+Click Left
+Sleep 1865
+Send UM {!}
+Sleep 10
+Send {Enter}
+
+
+Home::ExitApp
